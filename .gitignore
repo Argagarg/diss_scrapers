@@ -1,3 +1,10 @@
+# manual directories
+/daily_select_csv
+/hourly_csv
+/comp_csv
+log
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
